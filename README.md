@@ -78,3 +78,11 @@ Here are some ideas to get you started: -->
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=itsabdulrafey&theme=radical&_border=false&include_all_commits=true&count_private=true" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsabdulrafey&theme=radical&hide_border=false" alt="itsabdulrafey" />
 </div>
+<div align="center" >
+    <img src="https://github-profile-trophy.vercel.app/?username=itsabdulrafey&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
+</div>
+<div align="center">
+   <img align="center" src="https://visitor-badge-deno.deno.dev/itsabdulrafey.itsabdulrafey.svg" />
+</div>
+
+
