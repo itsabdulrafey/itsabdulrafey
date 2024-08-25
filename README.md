@@ -150,4 +150,4 @@ Here are some ideas to get you started:
 Python   3 hrs 58 mins    █████████████████████████   100.00 %
 ```
 <!--END_SECTION:waka-->
-![views since 2023/06/14](https://visitor-badge-deno.deno.dev/mdnadeemsarwar.mdnadeemsarwar.svg)
+![views since 2023/06/14](https://visitor-badge-deno.deno.dev/itsabdulrafey.itsabdulrafey.svg)
