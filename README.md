@@ -1,7 +1,9 @@
 <p align="center">
-<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
-    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Rafey+Ahmed..;Open-Source+Enthusiast..;Learning+In+Public..;Nice+To+Meet+You+....&center=true"></a></p>
+  <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
+  <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Rafey+Ahmed..;Open-Source+Enthusiast..;Learning+In+Public..;Nice+To+Meet+You+....&center=true" />
+</p>
 
+<p align="center"><b>📧 <a href="mailto:hi@rafeyahmed.com">hi@rafeyahmed.com</a></b></p>
 
 <!--
 **soumyajit4419/soumyajit4419** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -9,30 +11,24 @@ Here are some ideas to get you started: -->
 
 <div align="center">
   <img src ="./23232.jpg" />
-  
 </div>
 
- <br/>
+<br/>
 
 ## 👨🏻‍💻 About Me:
 
-<img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
+<img src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
 <!-- - 🙋‍♂️ All about me is at **[My Website](https://soumyajit.vercel.app/)** -->
 
 - 🔭 I’m currently working on `Something Intresting`.
-
 - 🌱 I’m currently learning `MERN Stack`
-
 - 👯 I’m looking to collaborate for `Dev Projects`
-
 - 🤔 I’m looking for help with `Competitive Programming`
-
 - 💬 Ask me about anything, Except Maths :sweat_smile:
-
 - 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
-
 - ⚡ Fun fact: I waste most of my time playing games
+- 📫 Reach me: **[hi@rafeyahmed.com](mailto:hi@rafeyahmed.com)**
 
 ## 🛠️ Technologies and Tools I use:
 
@@ -45,7 +41,7 @@ Here are some ideas to get you started: -->
 <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"  height="25px"/>
 <img alt="npm" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" height="25px"/>
 <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" height="25px"/>
- <img alt="Express" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" height="25px"/>
+<img alt="Express" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" height="25px"/>
 <img alt="Tailwidcss" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="25px"/>
 <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="25px"/>
 <img alt="Material UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" height="25px"/>
@@ -57,16 +53,28 @@ Here are some ideas to get you started: -->
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="25px"/>
 <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" height="25px"/>
 <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" height="25px"/>
- <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" height="25px"/>
- <img alt="postman" src="https://img.shields.io/badge/-Postman-00C7B7?style=flat-square&logo=postman&logoColor=white" height="25px"/>
- <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" height="25px"/>
+<img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" height="25px"/>
+<img alt="postman" src="https://img.shields.io/badge/-Postman-00C7B7?style=flat-square&logo=postman&logoColor=white" height="25px"/>
+<img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" height="25px"/>
 </p>
 
 ## ❤️ Let's get connected:
+
+<div align="center">
+  <a href="mailto:hi@rafeyahmed.com" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Email-hi@rafeyahmed.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      height="32px"
+      alt="Email hi@rafeyahmed.com"
+    />
+  </a>
+</div>
+
 <!--
 <p><a href="https://soumyajit.vercel.app/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Soumyajit.tech-9146FF.svg?&style=for-the-badge&logo=appveyor&logoColor=white" height="30px" /></a> <a href="https://twitter.com/soumyajit4419" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"  height="30px"/></a> <a href="https://www.linkedin.com/in/soumyajit4419/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> <a href="https://soumyajitblogs.vercel.app/" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/Blog-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"  height="30px"/></a> <a href="https://www.instagram.com/soumyajit4419" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
 </p>
 -->
+
 ## 🤝 Support Me:
 <!--
 <a href="https://www.buymeacoffee.com/soumyajit4419" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height="60px" width="200px"></a>
@@ -79,10 +87,8 @@ Here are some ideas to get you started: -->
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsabdulrafey&theme=radical&hide_border=false" alt="itsabdulrafey" />
 </div>
 <div align="center" >
-    <img src="https://github-profile-trophy.vercel.app/?username=itsabdulrafey&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=itsabdulrafey&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
 </div>
 <div align="center">
-   <img align="center" src="https://visitor-badge-deno.deno.dev/itsabdulrafey.itsabdulrafey.svg" />
+  <img align="center" src="https://visitor-badge-deno.deno.dev/itsabdulrafey.itsabdulrafey.svg" />
 </div>
-
-
