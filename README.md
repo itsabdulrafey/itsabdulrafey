@@ -186,38 +186,13 @@
 
 ---
 
-## `06` &nbsp; CONTRIBUTION SNAKE &nbsp; — &nbsp; SETUP GUIDE
+## `06` &nbsp; 3D CONTRIBUTION CALENDAR
 
-> **⚙️ One-time setup** — Create this file in your profile repo: `.github/workflows/snake.yml`
+<div align="center">
 
-```yaml
-name: Generate Snake
-on:
-  schedule: [{cron: "0 */12 * * *"}]
-  workflow_dispatch:
-  push: {branches: ["main"]}
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: itsabdulrafey
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
+<img src="https://raw.githubusercontent.com/itsabdulrafey/itsabdulrafey/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
 
-> After workflow runs, replace the comment below with the actual image line:
-
-<img src="https://raw.githubusercontent.com/itsabdulrafey/itsabdulrafey/output/github-snake-dark.svg" width="100%"/>
+</div>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=ff3366&height=3" width="100%"/>
@@ -227,33 +202,13 @@ jobs:
 
 ---
 
-## `07` &nbsp; 3D CALENDAR &nbsp; — &nbsp; SETUP GUIDE
+## `07` &nbsp; CONTRIBUTION SNAKE
 
-> **⚙️ One-time setup** — Create: `.github/workflows/3d-contrib.yml`
+<div align="center">
 
-```yaml
-name: GitHub-Profile-3D-Contrib
-on:
-  schedule: [{cron: "0 18 * * *"}]
-  workflow_dispatch:
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: itsabdulrafey
-      - run: |
-          git config --global user.email "action@github.com"
-          git config --global user.name "GitHub Action"
-          git add -A && git commit -m "update 3D profile" && git push
-```
+<img src="https://raw.githubusercontent.com/itsabdulrafey/itsabdulrafey/output/github-snake-dark.svg" width="100%"/>
 
-> After workflow runs, replace the comment below with the actual image line:
-
- <img src="https://raw.githubusercontent.com/itsabdulrafey/itsabdulrafey/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
+</div>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=ff3366&height=3" width="100%"/>
