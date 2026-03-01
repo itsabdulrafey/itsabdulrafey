@@ -253,7 +253,7 @@ jobs:
 
 > After workflow runs, replace the comment below with the actual image line:
 
-<!-- <img src="https://raw.githubusercontent.com/itsabdulrafey/itsabdulrafey/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/> -->
+ <img src="https://raw.githubusercontent.com/itsabdulrafey/itsabdulrafey/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=ff3366&height=3" width="100%"/>
