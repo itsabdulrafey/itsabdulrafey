@@ -1,285 +1,94 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=ff3366&height=4" width="100%"/>
-</div>
+<p align="center">
+  <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
+  <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Rafey+Ahmed..;Open-Source+Enthusiast..;Learning+In+Public..;Nice+To+Meet+You+....&center=true" />
+</p>
+
+<p align="center"><b>📧 <a href="mailto:hi@rafeyahmed.com">hi@rafeyahmed.com</a></b></p>
+
+<!--
+**soumyajit4419/soumyajit4419** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some ideas to get you started: -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0d0d0d&height=260&text=RAFEY%20AHMED&fontColor=ffffff&fontSize=80&fontAlignY=42&desc=MERN%20Stack%20Developer%20%E2%80%94%20Open%20Source%20%E2%80%94%20Learning%20In%20Public&descColor=ff3366&descAlignY=63&descSize=16&animation=fadeIn" width="100%"/>
-</div>
-
-<div align="center">
-
-```
-┌──────────────────────────────────────────────────────────────────────────────┐
-│   THE  DEV  CHRONICLE  ✦  SPECIAL EDITION  ✦  hi@rafeyahmed.com             │
-│──────────────────────────────────────────────────────────────────────────────│
-│   MERN STACK  ✦  OPEN SOURCE  ✦  LEARNING IN PUBLIC  ✦  ISLAMABAD, PK  🇵🇰  │
-└──────────────────────────────────────────────────────────────────────────────┘
-```
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=16&pause=1200&color=FF3366&center=true&vCenter=true&width=750&lines=%E2%80%9C+Building+the+web%2C+one+commit+at+a+time.+%E2%80%9D;%E2%80%9C+Open+Source+is+not+just+code+%E2%80%94+it%27s+community.+%E2%80%9D;%E2%80%9C+Learn+new+tech+%F0%9F%94%A5+%E2%80%94+Share+what+you+learned+%F0%9F%8E%89+%E2%80%9D;%E2%80%9C+Ask+me+anything.+Except+Maths.+%F0%9F%98%85+%E2%80%9D)](https://git.io/typing-svg)
-
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=ff3366&height=3" width="100%"/>
+  <img src ="./23232.jpg" />
 </div>
 
 <br/>
 
----
+## 👨🏻‍💻 About Me:
 
-## `01` &nbsp; COVER STORY &nbsp; — &nbsp; WHO IS RAFEY?
+<img src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
-<table>
-<tr>
-<td width="52%">
+<!-- - 🙋‍♂️ All about me is at **[My Website](https://soumyajit.vercel.app/)** -->
 
-```yaml
-# ── profile.yml ─────────────────────────
-  name      : Abdul Rafey Ahmed
-  handle    : @itsabdulrafey
-  base      : Islamabad, Pakistan 🇵🇰
-  email     : hi@rafeyahmed.com
-  web       : rafeyahmed.com
-# ────────────────────────────────────────
-  role      : MERN Stack Developer
-  focus     : React · Node.js · MongoDB
-  status    : "Building Something Interesting™"
-  mode      : Learning In Public 📖
-# ────────────────────────────────────────
-  open_to   : Dev Collaborations 👯
-  ask_me    : "Anything — except Maths 😅"
-  fun_fact  : Gaming > Sleep ⚡
-  life_hack : "Learn 🔥 → Share 🎉 → Repeat"
-# ────────────────────────────────────────
-```
+- 🔭 I’m currently working on `Something Intresting`.
+- 🌱 I’m currently learning `MERN Stack`
+- 👯 I’m looking to collaborate for `Dev Projects`
+- 🤔 I’m looking for help with `Competitive Programming`
+- 💬 Ask me about anything, Except Maths :sweat_smile:
+- 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
+- ⚡ Fun fact: I waste most of my time playing games
+- 📫 Reach me: **[hi@rafeyahmed.com](mailto:hi@rafeyahmed.com)**
 
-</td>
-<td width="48%" align="center">
+## 🛠️ Technologies and Tools I use:
 
-<img src="https://github-readme-stats.vercel.app/api?username=itsabdulrafey&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d0d0d&title_color=ff3366&icon_color=00ff88&text_color=ffffff" width="100%"/>
+<p>
+<img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25px"/>
+<img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  height="25px"/>
+<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/>
+<img alt="NextJs" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" height="25px"/>
+<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white"  height="25px"/>
+<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"  height="25px"/>
+<img alt="npm" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" height="25px"/>
+<img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" height="25px"/>
+<img alt="Express" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" height="25px"/>
+<img alt="Tailwidcss" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="25px"/>
+<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="25px"/>
+<img alt="Material UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" height="25px"/>
+<img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height="25px"/>
+<img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"  height="25px"/>
+<img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25px"/>
+<img alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25px"/>
+<img alt="Jquery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" height="25px"/>
+<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="25px"/>
+<img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" height="25px"/>
+<img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" height="25px"/>
+<img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" height="25px"/>
+<img alt="postman" src="https://img.shields.io/badge/-Postman-00C7B7?style=flat-square&logo=postman&logoColor=white" height="25px"/>
+<img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" height="25px"/>
+</p>
 
-</td>
-</tr>
-</table>
+## ❤️ Let's get connected:
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=ff3366&height=3" width="100%"/>
+  <a href="mailto:hi@rafeyahmed.com" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Email-hi@rafeyahmed.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      height="32px"
+      alt="Email hi@rafeyahmed.com"
+    />
+  </a>
 </div>
 
-<br/>
+<!--
+<p><a href="https://soumyajit.vercel.app/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Soumyajit.tech-9146FF.svg?&style=for-the-badge&logo=appveyor&logoColor=white" height="30px" /></a> <a href="https://twitter.com/soumyajit4419" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"  height="30px"/></a> <a href="https://www.linkedin.com/in/soumyajit4419/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> <a href="https://soumyajitblogs.vercel.app/" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/Blog-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"  height="30px"/></a> <a href="https://www.instagram.com/soumyajit4419" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
+</p>
+-->
 
----
+## 🤝 Support Me:
+<!--
+<a href="https://www.buymeacoffee.com/soumyajit4419" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height="60px" width="200px"></a>
+-->
 
-## `02` &nbsp; THE STACK &nbsp; — &nbsp; TOOLS & TECHNOLOGIES
+## 📊 My GitHub Data:
 
 <div align="center">
-
-**`── FRONTEND ──`**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=FFCC00)
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00FF88)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=ffffff)
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=FF3366)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=0066FF)
-
-**`── STYLING ──`**
-
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=00FF88)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=FFCC00)
-![MUI](https://img.shields.io/badge/Material_UI-000000?style=for-the-badge&logo=mui&logoColor=0066FF)
-![jQuery](https://img.shields.io/badge/jQuery-000000?style=for-the-badge&logo=jquery&logoColor=0066FF)
-
-**`── BACKEND & DATABASE ──`**
-
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=00FF88)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=ffffff)
-![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=00FF88)
-![Redux](https://img.shields.io/badge/Redux-000000?style=for-the-badge&logo=redux&logoColor=FF3366)
-
-**`── TOOLS & DEVOPS ──`**
-
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=FF3366)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=github-actions&logoColor=00FF88)
-![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=FFCC00)
-![Heroku](https://img.shields.io/badge/Heroku-000000?style=for-the-badge&logo=heroku&logoColor=FFCC00)
-![NPM](https://img.shields.io/badge/NPM-000000?style=for-the-badge&logo=npm&logoColor=FF3366)
-![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=0066FF)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FFCC00)
-
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=itsabdulrafey&theme=radical&_border=false&include_all_commits=true&count_private=true" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsabdulrafey&theme=radical&hide_border=false" alt="itsabdulrafey" />
 </div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=ff3366&height=3" width="100%"/>
+<div align="center" >
+  <img src="https://github-profile-trophy.vercel.app/?username=itsabdulrafey&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
 </div>
-
-<br/>
-
----
-
-## `03` &nbsp; SKILL REPORT &nbsp; — &nbsp; PROFICIENCY BREAKDOWN
-
 <div align="center">
-
-```
-  ╔══════════════════════════════════════════════════════════════════════╗
-  ║                  SKILL PROFICIENCY — 2024 EDITION                   ║
-  ╠══════════════════════════════════════════════════════════════════════╣
-  ║                                                                      ║
-  ║  React / Next.js   ██████████████████████░░  88%  ▸  ADVANCED       ║
-  ║  JavaScript        █████████████████████░░░  85%  ▸  ADVANCED       ║
-  ║  Tailwind / CSS    ███████████████████████░  90%  ▸  EXPERT         ║
-  ║  Node / Express    ████████████████░░░░░░░░  68%  ▸  PROFICIENT     ║
-  ║  MongoDB           ███████████████░░░░░░░░░  63%  ▸  PROFICIENT     ║
-  ║  Git / DevOps      ██████████████████░░░░░░  75%  ▸  ADVANCED       ║
-  ║  C++ / Python      █████████████░░░░░░░░░░░  53%  ▸  INTERMEDIATE   ║
-  ║                                                                      ║
-  ╠══════════════════════════════════════════════════════════════════════╣
-  ║  VERDICT :  Full-Stack MERN Developer in the making  🚀              ║
-  ╚══════════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=ff3366&height=3" width="100%"/>
-</div>
-
-<br/>
-
----
-
-## `04` &nbsp; GITHUB DATA &nbsp; — &nbsp; METRICS & ANALYTICS
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=itsabdulrafey&theme=radical&hide_border=true&background=0d0d0d&ring=ff3366&fire=ffcc00&currStreakLabel=00ff88&sideLabels=ffffff&dates=555555"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsabdulrafey&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=ff3366&text_color=ffffff&langs_count=8"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=itsabdulrafey&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7"/>
-
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=ff3366&height=3" width="100%"/>
-</div>
-
-<br/>
-
----
-
-## `05` &nbsp; CONTRIBUTION PULSE &nbsp; — &nbsp; ACTIVITY GRAPH
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=itsabdulrafey&bg_color=0d0d0d&color=00ff88&line=ff3366&point=ffcc00&area=true&hide_border=true&custom_title=RAFEY%27S%20CONTRIBUTION%20GRAPH%20%E2%80%94%20THE%20DEV%20CHRONICLE)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=ff3366&height=3" width="100%"/>
-</div>
-
-<br/>
-
----
-
-## `06` &nbsp; 3D CONTRIBUTION CALENDAR
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/itsabdulrafey/itsabdulrafey/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
-
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=ff3366&height=3" width="100%"/>
-</div>
-
-<br/>
-
----
-
-## `07` &nbsp; CONTRIBUTION SNAKE
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/itsabdulrafey/itsabdulrafey/output/github-snake-dark.svg" width="100%"/>
-
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=ff3366&height=3" width="100%"/>
-</div>
-
-<br/>
-
----
-
-## `08` &nbsp; DAILY QUOTE &nbsp; — &nbsp; TODAY'S EDITORIAL
-
-<div align="center">
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
-
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=ff3366&height=3" width="100%"/>
-</div>
-
-<br/>
-
----
-
-## `09` &nbsp; CONNECT &nbsp; — &nbsp; LET'S BUILD TOGETHER
-
-<div align="center">
-
-```
-  ╔══════════════════════════════════════════════════════════════╗
-  ║     Got a project? Want to collab? Just wanna talk?         ║
-  ║           Slide in — I don't bite. 🤝                       ║
-  ╚══════════════════════════════════════════════════════════════╝
-```
-
-<br/>
-
-[![Email](https://img.shields.io/badge/✉_EMAIL-hi@rafeyahmed.com-FF3366?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hi@rafeyahmed.com)
-&nbsp;&nbsp;
-[![Website](https://img.shields.io/badge/🌐_WEBSITE-rafeyahmed.com-00FF88?style=for-the-badge&logo=safari&logoColor=black)](https://www.rafeyahmed.com)
-&nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/💼_LINKEDIN-itsabdulrafey-0066FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/itsabdulrafey)
-&nbsp;&nbsp;
-[![Links](https://img.shields.io/badge/🔗_ALL_LINKS-rafeyahmed.com/links-FFCC00?style=for-the-badge&logo=linktree&logoColor=black)](https://www.rafeyahmed.com/links)
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=ff3366&height=3" width="100%"/>
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=itsabdulrafey&color=ff3366&style=for-the-badge&label=PROFILE+VIEWS)
-&nbsp;
-![Followers](https://img.shields.io/github/followers/itsabdulrafey?color=00ff88&style=for-the-badge&logo=github&label=FOLLOWERS)
-
-<br/><br/>
-
-```
-  ─────────────────────────────────────────────────────────────────
-    THE DEV CHRONICLE  ·  Issue No. 01  ·  Abdul Rafey Ahmed  ·  2024
-      "Learn new tech 🔥  —  Share what you learned 🎉  —  Repeat"
-  ─────────────────────────────────────────────────────────────────
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:ff3366&height=100&section=footer" width="100%"/>
-
+  <img align="center" src="https://visitor-badge-deno.deno.dev/itsabdulrafey.itsabdulrafey.svg" />
 </div>
