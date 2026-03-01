@@ -1,588 +1,330 @@
-<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>Rafey Ahmed — GitHub Profile</title>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ff3366&height=4" width="100%"/>
+</div>
 
-  <!-- Fonts (optional but recommended) -->
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0d0d0d&height=260&text=RAFEY%20AHMED&fontColor=ffffff&fontSize=80&fontAlignY=42&desc=MERN%20Stack%20Developer%20%E2%80%94%20Open%20Source%20%E2%80%94%20Learning%20In%20Public&descColor=ff3366&descAlignY=63&descSize=16&animation=fadeIn" width="100%"/>
+</div>
 
-  <style>
-    /* ============================
-      RAFey - Neo Brutalist Profile
-      Single-file: HTML + CSS + JS
-      ============================ */
+<div align="center">
 
-    :root{
-      --black:#000000;
-      --white:#ffffff;
-      --offwhite:#f5f5f0;
-      --gray:#333333;
-      --gray-mid:#666666;
-      --gray-light:#999999;
+```
+┌──────────────────────────────────────────────────────────────────────────────┐
+│   THE  DEV  CHRONICLE  ✦  SPECIAL EDITION  ✦  hi@rafeyahmed.com             │
+│──────────────────────────────────────────────────────────────────────────────│
+│   MERN STACK  ✦  OPEN SOURCE  ✦  LEARNING IN PUBLIC  ✦  ISLAMABAD, PK  🇵🇰  │
+└──────────────────────────────────────────────────────────────────────────────┘
+```
 
-      --accent:#ff3366;
-      --accent-dark:#cc0033;
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=16&pause=1200&color=FF3366&center=true&vCenter=true&width=750&lines=%E2%80%9C+Building+the+web%2C+one+commit+at+a+time.+%E2%80%9D;%E2%80%9C+Open+Source+is+not+just+code+%E2%80%94+it%27s+community.+%E2%80%9D;%E2%80%9C+Learn+new+tech+%F0%9F%94%A5+%E2%80%94+Share+what+you+learned+%F0%9F%8E%89+%E2%80%9D;%E2%80%9C+Ask+me+anything.+Except+Maths.+%F0%9F%98%85+%E2%80%9D)](https://git.io/typing-svg)
 
-      --green:#00ff88;
-      --blue:#0066ff;
-      --yellow:#ffcc00;
+</div>
 
-      --border-lg:4px solid var(--black);
-      --border-md:3px solid var(--black);
-      --border-sm:2px solid var(--black);
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ff3366&height=3" width="100%"/>
+</div>
 
-      --shadow-sm:4px 4px 0 var(--black);
-      --shadow-md:6px 6px 0 var(--black);
-      --shadow-lg:8px 8px 0 var(--black);
+<br/>
 
-      --radius:18px;
-      --mono:"Space Mono", monospace;
-      --display:"Bebas Neue", sans-serif;
-    }
+---
 
-    *{ box-sizing:border-box; margin:0; padding:0; }
-    html{ scroll-behavior:smooth; }
-    body{
-      background:var(--offwhite);
-      color:var(--black);
-      font-family:var(--mono);
-      overflow-x:hidden;
-    }
+## `01` &nbsp; COVER STORY &nbsp; — &nbsp; WHO IS RAFEY?
 
-    /* Noise overlay */
-    body:before{
-      content:"";
-      position:fixed;
-      inset:0;
-      pointer-events:none;
-      z-index:9999;
-      opacity:.06;
-      mix-blend-mode:multiply;
-      background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='240' height='240'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.9' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='240' height='240' filter='url(%23n)' opacity='.35'/%3E%3C/svg%3E");
-    }
+<table>
+<tr>
+<td width="52%">
 
-    /* Layout container */
-    .wrap{
-      width:min(1200px, 94vw);
-      margin:22px auto 40px;
-      display:flex;
-      flex-direction:column;
-      gap:18px;
-    }
+```yaml
+# ── profile.yml ─────────────────────────
+  name      : Abdul Rafey Ahmed
+  handle    : @itsabdulrafey
+  base      : Islamabad, Pakistan 🇵🇰
+  email     : hi@rafeyahmed.com
+  web       : rafeyahmed.com
+# ────────────────────────────────────────
+  role      : MERN Stack Developer
+  focus     : React · Node.js · MongoDB
+  status    : "Building Something Interesting™"
+  mode      : Learning In Public 📖
+# ────────────────────────────────────────
+  open_to   : Dev Collaborations 👯
+  ask_me    : "Anything — except Maths 😅"
+  fun_fact  : Gaming > Sleep ⚡
+  life_hack : "Learn 🔥 → Share 🎉 → Repeat"
+# ────────────────────────────────────────
+```
 
-    /* Header */
-    header{
-      background:var(--black);
-      color:var(--white);
-      border:var(--border-lg);
-      box-shadow:var(--shadow-md);
-      border-radius:var(--radius);
-      padding:18px 18px;
-      position:sticky;
-      top:12px;
-      z-index:300;
-      display:flex;
-      align-items:center;
-      justify-content:space-between;
-      gap:12px;
-    }
-    .logo{
-      font-family:var(--display);
-      letter-spacing:.04em;
-      font-size:28px;
-      color:var(--green);
-      text-shadow:2px 2px 0 var(--accent);
-      line-height:1;
-      user-select:none;
-    }
-    nav{
-      display:flex;
-      align-items:center;
-      gap:16px;
-      flex-wrap:wrap;
-      justify-content:flex-end;
-    }
-    nav a{
-      color:var(--white);
-      text-decoration:none;
-      font-size:12px;
-      letter-spacing:.16em;
-      text-transform:uppercase;
-      position:relative;
-      padding-bottom:4px;
-    }
-    nav a:after{
-      content:"";
-      position:absolute;
-      left:0;
-      bottom:0;
-      height:2px;
-      width:0;
-      background:var(--green);
-      transition:width .2s ease;
-    }
-    nav a:hover{ color:var(--green); }
-    nav a:hover:after{ width:100%; }
+</td>
+<td width="48%" align="center">
 
-    /* Main grid */
-    .main{
-      display:grid;
-      grid-template-columns: 360px 1fr;
-      gap:18px;
-      align-items:start;
-    }
+<img src="https://github-readme-stats.vercel.app/api?username=itsabdulrafey&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d0d0d&title_color=ff3366&icon_color=00ff88&text_color=ffffff" width="100%"/>
 
-    @media (max-width: 980px){
-      .main{ grid-template-columns: 1fr; }
-      header{ position:relative; top:0; }
-    }
+</td>
+</tr>
+</table>
 
-    /* Left profile card */
-    .profile{
-      background:var(--white);
-      border:var(--border-lg);
-      box-shadow:var(--shadow-lg);
-      border-radius:var(--radius);
-      padding:18px;
-      position:sticky;
-      top:102px;
-    }
-    @media (max-width: 980px){
-      .profile{ position:relative; top:0; }
-    }
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ff3366&height=3" width="100%"/>
+</div>
 
-    .avatarWrap{
-      width:120px;
-      height:120px;
-      border:var(--border-md);
-      box-shadow:var(--shadow-md);
-      border-radius:999px;
-      overflow:hidden;
-      background:var(--offwhite);
-      margin-bottom:14px;
-    }
-    .avatarWrap img{
-      width:100%;
-      height:100%;
-      object-fit:cover;
-      display:block;
-    }
+<br/>
 
-    .name{
-      font-family:var(--display);
-      font-size:34px;
-      line-height:1;
-      letter-spacing:.02em;
-      margin-bottom:6px;
-    }
-    .handle{
-      color:var(--gray-mid);
-      font-size:12px;
-      margin-bottom:10px;
-    }
-    .tagline{
-      font-size:12.5px;
-      line-height:1.55;
-      margin-bottom:14px;
-    }
+---
 
-    .btnRow{
-      display:flex;
-      gap:10px;
-      margin-bottom:14px;
-      flex-wrap:wrap;
-    }
-    .btn{
-      display:inline-flex;
-      align-items:center;
-      justify-content:center;
-      gap:8px;
-      padding:10px 12px;
-      border:var(--border-md);
-      box-shadow:var(--shadow-sm);
-      border-radius:14px;
-      font-size:12px;
-      text-decoration:none;
-      cursor:pointer;
-      user-select:none;
-      transition:transform .12s ease;
-    }
-    .btn:active{ transform:translate(2px,2px); box-shadow:none; }
-    .btn.primary{ background:var(--black); color:var(--white); }
-    .btn.primary:hover{ color:var(--green); }
-    .btn.ghost{ background:var(--white); color:var(--black); }
-    .btn.ghost:hover{ background:var(--offwhite); }
+## `02` &nbsp; THE STACK &nbsp; — &nbsp; TOOLS & TECHNOLOGIES
 
-    .meta{
-      display:flex;
-      flex-direction:column;
-      gap:10px;
-      margin-top:10px;
-      border-top:var(--border-sm);
-      padding-top:12px;
-    }
-    .metaItem{
-      display:flex;
-      align-items:center;
-      gap:10px;
-      font-size:12px;
-      color:var(--black);
-      word-break:break-word;
-    }
-    .ico{
-      width:22px;
-      height:22px;
-      border:var(--border-sm);
-      border-radius:8px;
-      display:inline-flex;
-      align-items:center;
-      justify-content:center;
-      font-weight:700;
-      box-shadow:2px 2px 0 var(--black);
-      background:var(--offwhite);
-      flex:0 0 auto;
-    }
+<div align="center">
 
-    .links{
-      margin-top:14px;
-      border-top:var(--border-sm);
-      padding-top:12px;
-      display:flex;
-      flex-direction:column;
-      gap:10px;
-    }
-    .links a{
-      text-decoration:none;
-      color:var(--blue);
-      font-size:12px;
-    }
-    .links a:hover{
-      color:var(--accent);
-      text-decoration:underline;
-    }
+**`── FRONTEND ──`**
 
-    /* Right content */
-    .content{
-      display:flex;
-      flex-direction:column;
-      gap:18px;
-    }
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=FFCC00)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00FF88)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=ffffff)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=FF3366)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=0066FF)
 
-    .panel{
-      background:var(--white);
-      border:var(--border-lg);
-      box-shadow:var(--shadow-lg);
-      border-radius:var(--radius);
-      padding:18px;
-    }
+**`── STYLING ──`**
 
-    .kicker{
-      display:flex;
-      align-items:center;
-      gap:10px;
-      font-size:11px;
-      text-transform:uppercase;
-      letter-spacing:.18em;
-      color:var(--gray-mid);
-      margin-bottom:8px;
-    }
-    .liveDot{
-      width:9px;height:9px;border-radius:999px;
-      background:var(--green);
-      border:2px solid var(--black);
-      box-shadow:2px 2px 0 var(--black);
-      animation:pulse 1.8s infinite;
-    }
-    @keyframes pulse{
-      0%{ transform:scale(1); opacity:1; }
-      50%{ transform:scale(1.18); opacity:.75; }
-      100%{ transform:scale(1); opacity:1; }
-    }
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=00FF88)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=FFCC00)
+![MUI](https://img.shields.io/badge/Material_UI-000000?style=for-the-badge&logo=mui&logoColor=0066FF)
+![jQuery](https://img.shields.io/badge/jQuery-000000?style=for-the-badge&logo=jquery&logoColor=0066FF)
 
-    .heroTitle{
-      font-family:var(--display);
-      font-size: clamp(42px, 6vw, 74px);
-      line-height:.92;
-      letter-spacing:-.01em;
-      margin-bottom:8px;
-    }
-    .heroTitle .accent{ color:var(--accent); text-shadow:3px 3px 0 var(--black); }
-    .heroTitle .outline{
-      -webkit-text-stroke: 3px var(--black);
-      color:transparent;
-    }
+**`── BACKEND & DATABASE ──`**
 
-    .heroText{
-      font-size:13px;
-      line-height:1.65;
-      color:var(--gray);
-      max-width:68ch;
-      margin-bottom:14px;
-    }
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=00FF88)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=ffffff)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=00FF88)
+![Redux](https://img.shields.io/badge/Redux-000000?style=for-the-badge&logo=redux&logoColor=FF3366)
 
-    .chips{
-      display:flex;
-      flex-wrap:wrap;
-      gap:10px;
-      margin-top:6px;
-    }
-    .chip{
-      display:inline-flex;
-      align-items:center;
-      gap:8px;
-      padding:8px 10px;
-      border:var(--border-md);
-      box-shadow:var(--shadow-sm);
-      border-radius:999px;
-      font-size:12px;
-      background:var(--offwhite);
-    }
-    .chip b{ color:var(--black); }
+**`── TOOLS & DEVOPS ──`**
 
-    .grid2{
-      display:grid;
-      grid-template-columns:1fr 1fr;
-      gap:14px;
-    }
-    @media (max-width: 820px){ .grid2{ grid-template-columns:1fr; } }
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=FF3366)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=github-actions&logoColor=00FF88)
+![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=FFCC00)
+![Heroku](https://img.shields.io/badge/Heroku-000000?style=for-the-badge&logo=heroku&logoColor=FFCC00)
+![NPM](https://img.shields.io/badge/NPM-000000?style=for-the-badge&logo=npm&logoColor=FF3366)
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=0066FF)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FFCC00)
 
-    .card{
-      background:var(--offwhite);
-      border:var(--border-md);
-      box-shadow:var(--shadow-md);
-      border-radius:var(--radius);
-      padding:14px;
-    }
-    .card h3{
-      font-family:var(--display);
-      font-size:26px;
-      letter-spacing:.02em;
-      margin-bottom:8px;
-    }
-    .card p{
-      font-size:12.5px;
-      line-height:1.6;
-      color:var(--gray);
-    }
+</div>
 
-    /* Code panel */
-    .codeTop{
-      display:flex;
-      align-items:center;
-      justify-content:space-between;
-      gap:10px;
-      border-bottom:var(--border-sm);
-      padding-bottom:10px;
-      margin-bottom:12px;
-    }
-    .fileTag{
-      font-size:12px;
-      color:var(--gray);
-    }
-    .dotRow{ display:flex; gap:8px; }
-    .dot{
-      width:12px;height:12px;border-radius:999px;
-      border:2px solid var(--black);
-      box-shadow:2px 2px 0 var(--black);
-    }
-    .dot.r{ background:var(--accent); }
-    .dot.y{ background:var(--yellow); }
-    .dot.g{ background:var(--green); }
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ff3366&height=3" width="100%"/>
+</div>
 
-    pre{
-      background:var(--white);
-      border:var(--border-md);
-      border-radius:16px;
-      box-shadow:var(--shadow-sm);
-      padding:14px;
-      overflow:auto;
-      font-size:12px;
-      line-height:1.55;
-    }
-    code{ font-family:var(--mono); }
-    .muted{ color:var(--gray-mid); }
+<br/>
 
-    /* Footer */
-    footer{
-      text-align:center;
-      font-size:11px;
-      color:var(--gray-mid);
-      padding:10px 0 0;
-    }
-    footer b{ color:var(--black); }
-  </style>
-</head>
+---
 
-<body>
-  <div class="wrap">
+## `03` &nbsp; SKILL REPORT &nbsp; — &nbsp; PROFICIENCY BREAKDOWN
 
-    <header>
-      <div class="logo">RAFey // DEV</div>
-      <nav>
-        <a href="#about">About</a>
-        <a href="#stack">Stack</a>
-        <a href="#projects">Projects</a>
-        <a href="#contact">Contact</a>
-      </nav>
-    </header>
+<div align="center">
 
-    <div class="main">
+```
+  ╔══════════════════════════════════════════════════════════════════════╗
+  ║                  SKILL PROFICIENCY — 2024 EDITION                   ║
+  ╠══════════════════════════════════════════════════════════════════════╣
+  ║                                                                      ║
+  ║  React / Next.js   ██████████████████████░░  88%  ▸  ADVANCED       ║
+  ║  JavaScript        █████████████████████░░░  85%  ▸  ADVANCED       ║
+  ║  Tailwind / CSS    ███████████████████████░  90%  ▸  EXPERT         ║
+  ║  Node / Express    ████████████████░░░░░░░░  68%  ▸  PROFICIENT     ║
+  ║  MongoDB           ███████████████░░░░░░░░░  63%  ▸  PROFICIENT     ║
+  ║  Git / DevOps      ██████████████████░░░░░░  75%  ▸  ADVANCED       ║
+  ║  C++ / Python      █████████████░░░░░░░░░░░  53%  ▸  INTERMEDIATE   ║
+  ║                                                                      ║
+  ╠══════════════════════════════════════════════════════════════════════╣
+  ║  VERDICT :  Full-Stack MERN Developer in the making  🚀              ║
+  ╚══════════════════════════════════════════════════════════════════════╝
+```
 
-      <!-- LEFT: Profile -->
-      <aside class="profile">
-        <div class="avatarWrap">
-          <!-- Replace with your image -->
-          <img src="https://images.unsplash.com/photo-1544723795-3fb6469f5b39?auto=format&fit=crop&w=400&q=80" alt="Profile" />
-        </div>
+</div>
 
-        <div class="name">Abdul Rafey Ahmed</div>
-        <div class="handle">@itsabdulrafey</div>
-        <div class="tagline">
-          React.js App Developer — working with <b>React.js</b> and <b>Redux</b>.
-          Clean UI, strong logic, and product-first delivery.
-        </div>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ff3366&height=3" width="100%"/>
+</div>
 
-        <div class="btnRow">
-          <a class="btn primary" href="#projects">View Work</a>
-          <a class="btn ghost" href="#contact">Hire / Contact</a>
-        </div>
+<br/>
 
-        <div class="meta">
-          <div class="metaItem"><span class="ico">🏢</span> Codistan</div>
-          <div class="metaItem"><span class="ico">📍</span> Islamabad, Pakistan</div>
-          <div class="metaItem"><span class="ico">🕒</span> <span id="localTime">--:--</span> <span class="muted">(Asia/Karachi)</span></div>
-          <div class="metaItem"><span class="ico">✉️</span> <a href="mailto:hi@rafeyahmed.com">hi@rafeyahmed.com</a></div>
-        </div>
+---
 
-        <div class="links">
-          <a href="https://www.linkedin.com/in/itsabdulrafey/" target="_blank" rel="noreferrer">LinkedIn</a>
-          <a href="https://www.rafeyahmed.com" target="_blank" rel="noreferrer">Website</a>
-          <a href="https://www.rafeyahmed.com/links" target="_blank" rel="noreferrer">Links</a>
-        </div>
-      </aside>
+## `04` &nbsp; GITHUB DATA &nbsp; — &nbsp; METRICS & ANALYTICS
 
-      <!-- RIGHT: Content -->
-      <main class="content">
+<div align="center">
 
-        <!-- HERO -->
-        <section class="panel" id="about">
-          <div class="kicker"><span class="liveDot"></span> Available for freelance / full-time</div>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=itsabdulrafey&theme=radical&hide_border=true&background=0d0d0d&ring=ff3366&fire=ffcc00&currStreakLabel=00ff88&sideLabels=ffffff&dates=555555"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsabdulrafey&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=ff3366&text_color=ffffff&langs_count=8"/>
 
-          <h1 class="heroTitle">
-            Build <span class="accent">fast</span><br />
-            <span class="outline">product UIs</span>
-          </h1>
+<br/><br/>
 
-          <p class="heroText">
-            I build modern web apps with clean architecture, pixel-perfect UI, and scalable state management.
-            If you want a dev who ships features and keeps code maintainable — I’m your guy.
-          </p>
+<img src="https://github-profile-trophy.vercel.app/?username=itsabdulrafey&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7"/>
 
-          <div class="chips">
-            <div class="chip">⚡ <b>React</b> + Redux</div>
-            <div class="chip">🧠 <b>TypeScript</b> ready</div>
-            <div class="chip">🎨 <b>Neo-Brutalist</b> UI</div>
-            <div class="chip">🧩 Component systems</div>
-          </div>
-        </section>
+</div>
 
-        <!-- STACK + HIGHLIGHTS -->
-        <section class="grid2" id="stack">
-          <div class="card">
-            <h3>Stack</h3>
-            <p>
-              React.js, Redux Toolkit, MUI, Tailwind, REST APIs, JWT Auth, Vite/Next.js, Git workflows.
-              Focus: fast UI, clean components, reusable patterns.
-            </p>
-          </div>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ff3366&height=3" width="100%"/>
+</div>
 
-          <div class="card">
-            <h3>What I deliver</h3>
-            <p>
-              Dashboards, admin panels, portals, ticketing systems, and production-ready UI features.
-              I keep code readable and scalable — not just “working”.
-            </p>
-          </div>
-        </section>
+<br/>
 
-        <!-- PROJECTS -->
-        <section class="panel" id="projects">
-          <div class="kicker">Selected work</div>
+---
 
-          <div class="grid2">
-            <div class="card">
-              <h3>IT Helpdesk Chatbot</h3>
-              <p>AI chatbot UI + ticket preview flows + draft forms (feedback/remarks/assignee/reminder).</p>
-            </div>
-            <div class="card">
-              <h3>University Portals</h3>
-              <p>Dashboards & portals with role-based UI, clean navigation, and data-driven screens.</p>
-            </div>
-          </div>
-        </section>
+## `05` &nbsp; CONTRIBUTION PULSE &nbsp; — &nbsp; ACTIVITY GRAPH
 
-        <!-- CODE PANEL (GitHub vibe) -->
-        <section class="panel">
-          <div class="codeTop">
-            <div class="fileTag"><b>itsabdulrafey</b> / <span class="muted">README.md</span></div>
-            <div class="dotRow">
-              <span class="dot r"></span>
-              <span class="dot y"></span>
-              <span class="dot g"></span>
-            </div>
-          </div>
+<div align="center">
 
-          <pre><code>&lt;!-- Paste this into GitHub Pages (index.html) --&gt;
-&lt;!-- Replace links, name, handle, image, and projects --&gt;
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=itsabdulrafey&bg_color=0d0d0d&color=00ff88&line=ff3366&point=ffcc00&area=true&hide_border=true&custom_title=RAFEY%27S%20CONTRIBUTION%20GRAPH%20%E2%80%94%20THE%20DEV%20CHRONICLE)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-&lt;!-- Contact: mailto:hi@rafeyahmed.com --&gt;
-&lt;!-- LinkedIn: https://www.linkedin.com/in/itsabdulrafey/ --&gt;</code></pre>
-        </section>
+</div>
 
-        <!-- CONTACT -->
-        <section class="panel" id="contact">
-          <div class="kicker">Contact</div>
-          <p class="heroText" style="margin-bottom:10px;">
-            Email me directly or connect on LinkedIn. I reply fast.
-          </p>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ff3366&height=3" width="100%"/>
+</div>
 
-          <div class="btnRow">
-            <a class="btn primary" href="mailto:hi@rafeyahmed.com">Email</a>
-            <a class="btn ghost" href="https://www.linkedin.com/in/itsabdulrafey/" target="_blank" rel="noreferrer">LinkedIn</a>
-            <a class="btn ghost" href="https://www.rafeyahmed.com" target="_blank" rel="noreferrer">Website</a>
-          </div>
-        </section>
+<br/>
 
-        <footer>
-          Built with <b>Neo-Brutal</b> vibes • © <span id="year"></span>
-        </footer>
+---
 
-      </main>
-    </div>
-  </div>
+## `06` &nbsp; CONTRIBUTION SNAKE &nbsp; — &nbsp; SETUP GUIDE
 
-  <script>
-    // Local time (Pakistan)
-    function updateTime(){
-      try{
-        const fmt = new Intl.DateTimeFormat('en-GB', {
-          timeZone: 'Asia/Karachi',
-          hour: '2-digit',
-          minute: '2-digit'
-        });
-        document.getElementById('localTime').textContent = fmt.format(new Date());
-      }catch(e){
-        document.getElementById('localTime').textContent = new Date().toLocaleTimeString([], {hour:'2-digit', minute:'2-digit'});
-      }
-    }
-    updateTime();
-    setInterval(updateTime, 15000);
+> **⚙️ One-time setup** — Create this file in your profile repo: `.github/workflows/snake.yml`
 
-    document.getElementById('year').textContent = new Date().getFullYear();
-  </script>
-</body>
-</html>
+```yaml
+name: Generate Snake
+on:
+  schedule: [{cron: "0 */12 * * *"}]
+  workflow_dispatch:
+  push: {branches: ["main"]}
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: itsabdulrafey
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+> After workflow runs, replace the comment below with the actual image line:
+
+<!-- <img src="https://raw.githubusercontent.com/itsabdulrafey/itsabdulrafey/output/github-snake-dark.svg" width="100%"/> -->
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ff3366&height=3" width="100%"/>
+</div>
+
+<br/>
+
+---
+
+## `07` &nbsp; 3D CALENDAR &nbsp; — &nbsp; SETUP GUIDE
+
+> **⚙️ One-time setup** — Create: `.github/workflows/3d-contrib.yml`
+
+```yaml
+name: GitHub-Profile-3D-Contrib
+on:
+  schedule: [{cron: "0 18 * * *"}]
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: itsabdulrafey
+      - run: |
+          git config --global user.email "action@github.com"
+          git config --global user.name "GitHub Action"
+          git add -A && git commit -m "update 3D profile" && git push
+```
+
+> After workflow runs, replace the comment below with the actual image line:
+
+<!-- <img src="https://raw.githubusercontent.com/itsabdulrafey/itsabdulrafey/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/> -->
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ff3366&height=3" width="100%"/>
+</div>
+
+<br/>
+
+---
+
+## `08` &nbsp; DAILY QUOTE &nbsp; — &nbsp; TODAY'S EDITORIAL
+
+<div align="center">
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ff3366&height=3" width="100%"/>
+</div>
+
+<br/>
+
+---
+
+## `09` &nbsp; CONNECT &nbsp; — &nbsp; LET'S BUILD TOGETHER
+
+<div align="center">
+
+```
+  ╔══════════════════════════════════════════════════════════════╗
+  ║     Got a project? Want to collab? Just wanna talk?         ║
+  ║           Slide in — I don't bite. 🤝                       ║
+  ╚══════════════════════════════════════════════════════════════╝
+```
+
+<br/>
+
+[![Email](https://img.shields.io/badge/✉_EMAIL-hi@rafeyahmed.com-FF3366?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hi@rafeyahmed.com)
+&nbsp;&nbsp;
+[![Website](https://img.shields.io/badge/🌐_WEBSITE-rafeyahmed.com-00FF88?style=for-the-badge&logo=safari&logoColor=black)](https://www.rafeyahmed.com)
+&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/💼_LINKEDIN-itsabdulrafey-0066FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/itsabdulrafey)
+&nbsp;&nbsp;
+[![Links](https://img.shields.io/badge/🔗_ALL_LINKS-rafeyahmed.com/links-FFCC00?style=for-the-badge&logo=linktree&logoColor=black)](https://www.rafeyahmed.com/links)
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ff3366&height=3" width="100%"/>
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=itsabdulrafey&color=ff3366&style=for-the-badge&label=PROFILE+VIEWS)
+&nbsp;
+![Followers](https://img.shields.io/github/followers/itsabdulrafey?color=00ff88&style=for-the-badge&logo=github&label=FOLLOWERS)
+
+<br/><br/>
+
+```
+  ─────────────────────────────────────────────────────────────────
+    THE DEV CHRONICLE  ·  Issue No. 01  ·  Abdul Rafey Ahmed  ·  2024
+      "Learn new tech 🔥  —  Share what you learned 🎉  —  Repeat"
+  ─────────────────────────────────────────────────────────────────
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:ff3366&height=100&section=footer" width="100%"/>
+
+</div>
