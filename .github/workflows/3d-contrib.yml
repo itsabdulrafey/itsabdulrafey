@@ -13,12 +13,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: itsabdulrafey
-          SETTING_JSON: |
-            {
-              "githubUserName": "itsabdulrafey",
-              "backgroundColor": "#0d0d0d",
-              "foregroundColor": "#ff3366"
-            }
       - run: |
           git config --global user.email "action@github.com"
           git config --global user.name "GitHub Action"
