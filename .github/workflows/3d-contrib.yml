@@ -5,13 +5,23 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v3
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: itsabdulrafey
+          SETTING_JSON: |
+            {
+              "githubUserName": "itsabdulrafey",
+              "backgroundColor": "#0d0d0d",
+              "foregroundColor": "#ff3366"
+            }
       - run: |
           git config --global user.email "action@github.com"
           git config --global user.name "GitHub Action"
-          git add -A && git commit -m "update 3D profile" && git push
+          git add -A
+          git diff --staged --quiet || git commit -m "update 3D profile"
+          git push
