@@ -10,7 +10,7 @@
 Here are some ideas to get you started: -->
 
 <div align="center">
-  <img src ="./Brown and Grey Minimalist Designer LinkedIn Article Cover Image.png" />
+  <img src ="./Updated_NeoBrutalist_LinkedIn_Cover.pptx.png" />
 </div>
 
 <br/>
